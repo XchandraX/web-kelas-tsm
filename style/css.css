@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.contoh {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.merah {
+    color: red;
+}
+
+.tengah {
+    text-align: center;
+}
+
+.gambar img {
+    max-width: 100%;
+}
